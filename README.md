@@ -1,2 +1,2 @@
 # POO-Programare-Orientata-pe-Obiect
-*Fitnes Store* - magazin virtual
+*Fitness Store* - magazin virtual
